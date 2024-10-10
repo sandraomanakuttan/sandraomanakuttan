@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Sandra KO
 
 Welcome to my GitHub profile! I am a passionate **Python Developer** with experience in building robust, scalable web applications and data analysis projects. I enjoy solving complex problems and am committed to delivering high-quality solutions. Here’s a quick overview of my skills and projects.
-
-![Profile Banner](s2.jpeg)  
+ 
 
 
 ## 🛠️ Technical Skills
@@ -73,3 +72,6 @@ Welcome to my GitHub profile! I am a passionate **Python Developer** with experi
 - **LinkedIn**: [linkedin.com/in/sandra-k-o-b594b9278/](https://www.linkedin.com/in/sandra-k-o-b594b9278/)  
 - **Email**: sandraomanakuttan22555@gmail.com  
 - **Phone**: +91 8943923438
+
+
+![Profile Banner](s2.jpeg) 
