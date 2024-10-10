@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I am a passionate **Python Developer** with experience in building robust, scalable web applications and data analysis projects. I enjoy solving complex problems and am committed to delivering high-quality solutions. Here’s a quick overview of my skills and projects.
 
-![Profile Banner](https://sandraomanakuttan.github.io/SandraPortfolio/images/banner.png)  
+![Profile Banner](san.jpeg)  
 (*Feel free to replace this link with your actual banner image*)
 
 ## 🛠️ Technical Skills
