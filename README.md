@@ -1,3 +1,6 @@
+
+![Git Cover](git%20cover.png)
+
 # 👋 Hi, I'm Sandra KO
 
 Welcome to my GitHub profile! I'm a passionate **Python Developer** with experience in building robust, scalable web applications and data analysis projects. I love solving complex problems and am dedicated to delivering high-quality, efficient solutions. Below is a quick overview of my skills and notable projects.
