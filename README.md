@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Sandra KO
 
-Welcome to my GitHub profile! I am a passionate **Python Developer** with experience in building robust, scalable web applications and data analysis projects. I enjoy solving complex problems and am committed to delivering high-quality solutions. Here’s a quick overview of my skills and projects.
- 
+Welcome to my GitHub profile! I'm a passionate **Python Developer** with experience in building robust, scalable web applications and data analysis projects. I love solving complex problems and am dedicated to delivering high-quality, efficient solutions. Below is a quick overview of my skills and notable projects.
 
+---
 
 ## 🛠️ Technical Skills
 
@@ -37,19 +37,23 @@ Welcome to my GitHub profile! I am a passionate **Python Developer** with experi
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
+
 ## 🌟 Key Projects
 
-- **Crafting Digital Excellence Blog**:  
-  Built a dynamic blog using Django and Python, improving user engagement by 20% through a polished design and responsive interface.
+- **Crafting Digital Excellence Blog**  
+  A dynamic blog built with Django and Python, where I enhanced user engagement by 20% through a sleek design and responsive layout.
 
-- **Code Elect Vote System**:  
-  Developed a voting platform with Django, Bootstrap, and SQLite3, boosting user participation by 25% and streamlining backend processes by 30%.
+- **Code Elect Vote System**  
+  Developed a voting platform using Django, Bootstrap, and SQLite3, improving user participation by 25% and optimizing backend processes by 30%.
 
-- **Semantic NLP Enhancement**:  
-  Integrated advanced NLP techniques like Word Mover's Distance (WMD) and Siamese networks to improve model accuracy by 40%, using Streamlit, Gensim, and Sentence Transformers.
+- **Semantic NLP Enhancement**  
+  Integrated cutting-edge NLP techniques like Word Mover’s Distance (WMD) and Siamese Networks, improving model accuracy by 40%. Built using Streamlit, Gensim, and Sentence Transformers.
 
-- **Rit Soft V2**:  
-  Revamped a PHP-based software system at RIT College, reducing processing time by 70% and increasing productivity by 30% through automation and performance optimization.
+- **Rit Soft V2**  
+  Revamped a PHP-based software system for RIT College, reducing processing time by 70% and boosting productivity by 30% through automation and performance enhancements.
+
+---
 
 ## 🎓 Education
 
@@ -59,12 +63,18 @@ Welcome to my GitHub profile! I am a passionate **Python Developer** with experi
 - **Bachelor of Science in Computer Science**  
   University of Kerala, 2017 - 2020
 
+---
+
 ## 🏆 Certifications
 
-- Diploma in Python with React and Data Science  
-- Certification in Operating Systems (NPTEL)  
-- Python Skills Certification (HackerRank)  
-- Web Development and Automation with Python Programming  
+Here are some of my key certifications:
+
+- 🎓 **Diploma in Python with React and Data Science**  
+- 📜 **Operating Systems Certification (NPTEL)**  
+- 🐍 **Python Skills Certification (HackerRank)**  
+- 🌐 **Web Development and Automation with Python Programming**  
+
+---
 
 ## 📫 Contact Me
 
@@ -73,5 +83,7 @@ Welcome to my GitHub profile! I am a passionate **Python Developer** with experi
 - **Email**: sandraomanakuttan22555@gmail.com  
 - **Phone**: +91 8943923438
 
+---
 
-![Profile Banner](s2.jpeg) 
+![Profile Banner](s2.jpeg)  
+<sub>*Image banner has been scaled down for optimal display*</sub>
