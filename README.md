@@ -84,7 +84,7 @@ Here are some of my key certifications:
 - **GitHub**: [github.com/sandraomanakuttan](https://github.com/sandraomanakuttan)  
 - **LinkedIn**: [linkedin.com/in/sandra-k-o-b594b9278/](https://www.linkedin.com/in/sandra-k-o-b594b9278/)  
 - **Email**: sandraomanakuttan22555@gmail.com  
-- **Phone**: +91 8943923438
+
 
 ---
 
