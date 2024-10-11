@@ -85,5 +85,4 @@ Here are some of my key certifications:
 
 ---
 
-![Profile Banner](s2.jpeg)  
-<sub>*Image banner has been scaled down for optimal display*</sub>
+
